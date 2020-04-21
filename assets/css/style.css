@@ -1,0 +1,22 @@
+body {
+  font-family: Vazir;
+  font-size: 12pt;
+}
+
+pre,
+code {
+  direction: ltr;
+  font-size: 10pt;
+}
+
+main p {
+  text-align: justify;
+}
+
+header .mui-appbar {
+  background-color: #FFF3E0;
+}
+
+header a {
+  color: black;
+}
